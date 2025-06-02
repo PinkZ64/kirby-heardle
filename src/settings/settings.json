@@ -1,5 +1,5 @@
 {
-  "heardle-name": "Kirby Air Ride",
+  "heardle-name": "Kirby OST",
   "guess-number": 6,
   "times": [
     1, 2, 4, 8, 16, 32
@@ -13,23 +13,14 @@
       "display-name": "Year",
       "type": "plus-minus",
       "word": {
-        "+": "Older",
-        "-": "Newer",
+        "+": "older",
+        "-": "newer",
         "=": "correct"
       }
     },
     {
       "name": "console",
       "display-name": "Console",
-      "type": "equal",
-      "word": {
-        "=": "correct",
-        "!=": "incorrect"
-      }
-    },
-    {
-      "name": "series",
-      "display-name": "Series",
       "type": "equal",
       "word": {
         "=": "correct",
@@ -46,8 +37,8 @@
       }
     },
     {
-      "name": "game-genre",
-      "display-name": "Genre",
+      "name": "butter-building",
+      "display-name": "Butter Building",
       "type": "equal",
       "word": {
         "=": "correct",
